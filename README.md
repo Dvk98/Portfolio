@@ -34,6 +34,6 @@ This was written in SFML and the source code can be found [here](https://github.
 A smartphone App were the player gets bombarded wit Kanjis and Kanji Compound words and need to supply the correct reading.
 This was written in dart, and the source code can be found [here](https://github.com/Dvk98/KanjiELearningApp)
 
-###ä Additions to FAME
+#### Additions to FAME
 For my bachelor thesis I made additions to the Fast and Accurate MEthylation Aligner for large mammalian genomes (FAME) for single single cell bisulfite sequencing.
 My fork can be found [here](https://github.com/Dvk98/FAME)
